@@ -7,9 +7,9 @@ multiplicacion = number1 * number2
 division = number1 / number2
 division_exacta = number1 // number2
 potencia = number1 ** 2
-potencia2 = number2 ** 2
-potencia3 = number2 ** 3
-potencia4 = number1 ** 3
+potencia_2 = number2 ** 2
+potencia_3 = number2 ** 3
+potencia_4 = number1 ** 3
 modulo = number1 % number2
 
 
@@ -20,9 +20,9 @@ print("Answer of the mult is: ",multiplicacion)
 print("Answer of the div is: ",division)
 print("Answer of the div_exacta is: ",division_exacta)
 print("Answer of the potencia **2 first number is: ",potencia)
-print("Answer of the potencia **2 second number is: ",potencia2)
-print("Answer of the potencia **3 first number is: ",potencia3)
-print("Answer of the potencia **3 second is: ",potencia4)
+print("Answer of the potencia **2 second number is: ",potencia_2)
+print("Answer of the potencia **3 first number is: ",potencia_3)
+print("Answer of the potencia **3 second is: ",potencia_4)
 print("Answer of the modulo is: ",modulo)
 
 
