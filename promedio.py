@@ -6,7 +6,7 @@ calif_3 = float(input("Enter the third grade: "))
 prom = (calif_1 + calif_2 + calif_3) / 3
 
 if prom >= 7:
-     print(nombre," you passed, congratulations!")
+     print(nombre," you passed with ",prom,",congratulations!")
 else:
-    print(nombre," you failed, im sorry.")
+    print(nombre," you failed with ",prom,",im sorry.")
     
